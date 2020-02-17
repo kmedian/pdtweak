@@ -19,5 +19,5 @@ setup(name='pdtweak',
       install_requires=[
           'setuptools>=40.0.0',
           'pandas>=0.25.3'],
-      python_requires='>=3.6',
+      python_requires='>=3.5',
       zip_safe=False)
